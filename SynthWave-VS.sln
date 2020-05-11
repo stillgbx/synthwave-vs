@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynthWave-VS", "SynthWave-VS.csproj", "{8F198143-2D11-45B7-9AFA-D1F07461BB55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6DE20621-7FDD-40B6-AA82-A1D300B49833}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F198143-2D11-45B7-9AFA-D1F07461BB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F198143-2D11-45B7-9AFA-D1F07461BB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F198143-2D11-45B7-9AFA-D1F07461BB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F198143-2D11-45B7-9AFA-D1F07461BB55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F9B83B-D312-4479-A962-3701A4EB6EBD}
+	EndGlobalSection
+EndGlobal
