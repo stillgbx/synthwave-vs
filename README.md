@@ -8,6 +8,6 @@ An attempt to port the awesome [SynthWave '84 - VS Code theme](https://github.co
 * Environment: [Roboto Medium](https://fonts.google.com/specimen/Roboto 'Roboto Medium')
 * All Text Tool Windows: [Roboto](https://fonts.google.com/specimen/Roboto 'Roboto')
 
-## Developpment setup
+## Development setup
 
 Install [Visual Studio Color Theme Designer](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner 'Visual Studio Color Theme Designer').
