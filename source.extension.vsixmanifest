@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VSThemeGBX.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="gbx06" />
-        <DisplayName>VSThemeGBX</DisplayName>
-        <Description xml:space="preserve">VSTheme project.</Description>
+        <Identity Id="SynthWave-VS.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="stillgbx" />
+        <DisplayName>SynthWave-VS</DisplayName>
+        <Description xml:space="preserve">An attempt to port the awesome SynthWave '84 - VS Code theme by Robb Owen to Visual Studio 2019.</Description>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
