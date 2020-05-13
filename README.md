@@ -5,7 +5,7 @@ An attempt to port the awesome [SynthWave '84 - VS Code theme](https://github.co
 ## Recommended fonts
 
 * Text Editor: [FiraCode Medium](https://github.com/tonsky/FiraCode 'FiraCode Medium')
-* Environment: [Roboto Medium](https://fonts.google.com/specimen/Roboto 'Roboto Medium')
+* Environment: [Roboto](https://fonts.google.com/specimen/Roboto 'Roboto Medium')
 * All Text Tool Windows: [Roboto](https://fonts.google.com/specimen/Roboto 'Roboto')
 
 ## Development setup

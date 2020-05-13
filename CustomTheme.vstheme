@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSThemeGBX (3)" GUID="{399df637-420d-4882-b366-4304134010d0}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VSThemeGBX (6)" GUID="{e9732d89-faee-4684-9f8b-64c7efc056dc}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1E122A" />
@@ -471,7 +471,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="AnimationRecordingIndication">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="AnimationRecordingOn">
         <Background Type="CT_RAW" Source="FF241B2F" />
@@ -5139,7 +5139,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ErrorBorder">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="AlertBorder">
         <Background Type="CT_RAW" Source="FF23A9F2" />
@@ -5194,7 +5194,7 @@
     <Category Name="Folder Difference" GUID="{b36b0228-dbad-4db0-b9c7-2ad3e572010f}">
       <Color Name="Different content">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE51400" />
+        <Foreground Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="Identical content">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6134,7 +6134,7 @@
       </Color>
       <Color Name="OutputError">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE51400" />
+        <Foreground Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="OutputVerbose">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6230,10 +6230,10 @@
         <Background Type="CT_RAW" Source="FF1E122A" />
       </Color>
       <Color Name="IndicatorFillWarning">
-        <Background Type="CT_RAW" Source="FFFFCC00" />
+        <Background Type="CT_RAW" Source="FFFFCE64" />
       </Color>
       <Color Name="IndicatorFillCritical">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
     </Category>
     <Category Name="ProjectDesigner" GUID="{ef1a2d2c-5d16-4ddb-8d04-79d0f6c1c56e}">
@@ -6349,7 +6349,7 @@
         <Background Type="CT_RAW" Source="FF23A9F2" />
       </Color>
       <Color Name="StopGlyph">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="SearchGlyph">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -6539,7 +6539,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="MouseOverStopGlyph">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="MouseOverSearchGlyph">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -6548,7 +6548,7 @@
         <Background Type="CT_RAW" Source="FF23A9F2" />
       </Color>
       <Color Name="FocusedStopGlyph">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="FocusedSearchGlyph">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -7325,16 +7325,16 @@
         <Background Type="CT_RAW" Source="FFAE3CBA" />
       </Color>
       <Color Name="TETileIconBackground">
-        <Background Type="CT_RAW" Source="FF3D3D3D" />
+        <Background Type="CT_RAW" Source="FF3D3651" />
       </Color>
       <Color Name="TETileListBackground">
-        <Background Type="CT_RAW" Source="FF2D2D2D" />
+        <Background Type="CT_RAW" Source="FF2A2139" />
       </Color>
       <Color Name="TETileListForeground">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TETileIconBackgroundMouseOver">
-        <Background Type="CT_RAW" Source="FF525252" />
+        <Background Type="CT_RAW" Source="FF4B4364" />
       </Color>
       <Color Name="TETileListBackgroundMouseOver">
         <Background Type="CT_RAW" Source="FF2A2139" />
@@ -8130,10 +8130,10 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ValidationSquiggles">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="DragDropInsertionArrow">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
     </Category>
     <Category Name="UnthemedDialog" GUID="{d1fae935-144d-45a6-af9a-d615e3cd7b75}">
@@ -8188,16 +8188,16 @@
     </Category>
     <Category Name="UserNotifications" GUID="{5d42b198-efca-431c-92aa-8b595d0d39c2}">
       <Color Name="SeverityCritical">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="SeverityImportant">
-        <Background Type="CT_RAW" Source="FFFFCC00" />
+        <Background Type="CT_RAW" Source="FFFFCE64" />
       </Color>
       <Color Name="SeverityInformative">
         <Background Type="CT_RAW" Source="FF2A2139" />
       </Color>
       <Color Name="SeverityVSUpdate">
-        <Background Type="CT_RAW" Source="FFFFCC00" />
+        <Background Type="CT_RAW" Source="FFFFCE64" />
       </Color>
       <Color Name="SubtitleText">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -8275,10 +8275,10 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="BadgeButtonCriticalActive">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="BadgeButtonCriticalActiveBorder">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="BadgeButtonCriticalActiveGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -8293,10 +8293,10 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="BadgeButtonCriticalInactive">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="BadgeButtonCriticalInactiveBorder">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="BadgeButtonCriticalInactiveGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -8320,10 +8320,10 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="BadgeButtonVSUpdateActive">
-        <Background Type="CT_RAW" Source="FFFFCC00" />
+        <Background Type="CT_RAW" Source="FFFFCE64" />
       </Color>
       <Color Name="BadgeButtonVSUpdateActiveBorder">
-        <Background Type="CT_RAW" Source="FFFFCC00" />
+        <Background Type="CT_RAW" Source="FFFFCE64" />
       </Color>
       <Color Name="BadgeButtonVSUpdateActiveGlyph">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -8338,10 +8338,10 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="BadgeButtonVSUpdateInactive">
-        <Background Type="CT_RAW" Source="FFFFCC00" />
+        <Background Type="CT_RAW" Source="FFFFCE64" />
       </Color>
       <Color Name="BadgeButtonVSUpdateInactiveBorder">
-        <Background Type="CT_RAW" Source="FFFFCC00" />
+        <Background Type="CT_RAW" Source="FFFFCE64" />
       </Color>
       <Color Name="BadgeButtonVSUpdateInactiveGlyph">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -8480,7 +8480,7 @@
     </Category>
     <Category Name="VersionControl" GUID="{6be84f44-74e4-4e5f-aee9-1b930f431375}">
       <Color Name="FolderDiffRed">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFF04250" />
       </Color>
       <Color Name="AnnotateRegion">
         <Background Type="CT_RAW" Source="FF1E122A" />
