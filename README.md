@@ -2,6 +2,8 @@
 
 An attempt to port the awesome [SynthWave '84 - VS Code theme](https://github.com/robb0wen/synthwave-vscode 'SynthWave \'84 - VS Code theme') by [Robb Owen](https://github.com/robb0wen 'Robb Owen') to Visual Studio 2019.
 
+![Preview](./Preview/preview.png)
+
 ## Recommended fonts
 
 * Text Editor: [FiraCode Medium](https://github.com/tonsky/FiraCode 'FiraCode Medium')
