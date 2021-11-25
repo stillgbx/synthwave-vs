@@ -23,5 +23,5 @@ Install [Visual Studio Color Theme Designer 2022](https://marketplace.visualstud
 * Clone this repository
 * Open the solution in VS
 * Open file `CustomTheme.vstheme`
-* Aplly
+* Apply
 * Restart VS
