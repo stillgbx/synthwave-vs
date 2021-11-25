@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSThemeGBX (6)" GUID="{e9732d89-faee-4684-9f8b-64c7efc056dc}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="SynthWave '84 VS" GUID="{e9732d89-faee-4684-9f8b-64c7efc056dc}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1E122A" />
