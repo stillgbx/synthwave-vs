@@ -1,5 +1,7 @@
 # SynthWave '84 - Visual Studio theme
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/stillgbx)
+
 An attempt to port the awesome [SynthWave '84 - VS Code theme](https://github.com/robb0wen/synthwave-vscode 'SynthWave \'84 - VS Code theme') by [Robb Owen](https://github.com/robb0wen 'Robb Owen') to Visual Studio 2019 or 2022.
 
 ![Preview](./Preview/preview.png)
