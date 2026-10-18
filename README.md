@@ -1,5 +1,6 @@
 # SynthWave '84 - Visual Studio theme
 
+[![Visual Studio Marketplace](https://img.shields.io/badge/Visual%20Studio%20Marketplace-SynthWave%20'84%20Theme-5C2D91)](https://marketplace.visualstudio.com/items?itemName=stillgbx.synthwave-vs)
 [![Build](https://github.com/stillgbx/synthwave-vs/actions/workflows/build.yml/badge.svg)](https://github.com/stillgbx/synthwave-vs/actions/workflows/build.yml)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/stillgbx)
 
@@ -19,6 +20,13 @@ Two variants are included:
 ![SynthWave '84 Neon Dream](./Preview/neon-dream.png)
 
 ## Install
+
+### From the Visual Studio Marketplace
+
+1. In Visual Studio, open *Extensions > Manage Extensions* and search for **SynthWave '84**, or install it from the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=stillgbx.synthwave-vs).
+2. Restart Visual Studio and pick the theme in *Tools > Theme*.
+
+Visual Studio then keeps the extension up to date.
 
 ### From a release
 
@@ -69,5 +77,5 @@ The editor palettes of both variants are at the top of the script. To edit the e
 ### Releasing
 
 1. Increase `Version` in `source.extension.vsixmanifest`: Visual Studio only updates an installed extension to a higher version.
-2. Push a tag with the same version, for example `v2.2`. The [Build](.github/workflows/build.yml) workflow builds the VSIX and attaches it to a new GitHub release.
-3. To publish on the Visual Studio Marketplace, upload the VSIX on [marketplace.visualstudio.com/manage](https://marketplace.visualstudio.com/manage), or run `VsixPublisher.exe` with `publishManifest.json`.
+2. Push a tag with the same version, for example `v2.7`. The [Build](.github/workflows/build.yml) workflow builds the VSIX and attaches it to a new GitHub release.
+3. Update the [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=stillgbx.synthwave-vs): upload the new VSIX on [marketplace.visualstudio.com/manage](https://marketplace.visualstudio.com/manage), or run `VsixPublisher.exe` with `publishManifest.json`.
