@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json.schemastore.org/vsix-publish",
+  "categories": [ "theme", "coding" ],
+  "identity": {
+    "internalName": "synthwave-vs"
+  },
+  "overview": "README.md",
+  "priceCategory": "free",
+  "publisher": "stillgbx",
+  "private": false,
+  "qna": true,
+  "repo": "https://github.com/stillgbx/synthwave-vs",
+  "assetFiles": [
+    {
+      "pathOnDisk": "Preview/synthwave84.png",
+      "targetPath": "Preview/synthwave84.png"
+    },
+    {
+      "pathOnDisk": "Preview/neon-dream.png",
+      "targetPath": "Preview/neon-dream.png"
+    }
+  ]
+}
